@@ -11,6 +11,9 @@ h3{
   text-align: center;
 }
 
+
+
+
 li{
   padding: 0.5rem;
 }
@@ -31,8 +34,8 @@ li{
 .b-example-divider {
   width: 100%;
   height: 3rem;
-  background-color: #52b0a0;
-  border: solid #52b0a0;
+  background-color: #faedcd;
+  border: solid #faedcd;
   border-width: 1px 0;
   box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
 }
@@ -87,5 +90,5 @@ li{
 }
 
 .maincolour{
-  background-color: #52b0a0;
+  background-color: #faedcd;
 }
